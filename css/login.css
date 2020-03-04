@@ -1,0 +1,18 @@
+.login{
+	width:400px;
+	height: auto;
+	margin-left: 500px;
+	padding: 10px;
+	margin-top: 70px;
+	border: 1px solid gray;
+	background: #DCDCDC;
+	
+}
+.header-bottom{
+		background:url(../images/banner.jpg);
+		height:500px;
+		width:100%;
+}
+.footer{
+	margin-top: -10px;
+}
